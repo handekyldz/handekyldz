@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 I'm a Frontend Developer who have background about **UI** and **UX** area. 
+
 - 💟 I like **Javascript** challenges.
 - 🕵️‍♀️ I’m currently learning **React.js**
 \
