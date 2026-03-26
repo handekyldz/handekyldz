@@ -1,28 +1,36 @@
-<h1 align="center">Hey there✨  I'm Hande</h1>
+<h1 align="center">Hi, I'm Hande ✨</h1>
 
-\
-&nbsp;
-\
-&nbsp;
-
-### 👩‍💻 About Me
+<p align="center">
+Product Designer exploring code
+</p>
 
 
-- 💟 I like **Javascript** challenges.
-- 🕵️‍♀️ I’m currently learning **React.js**
-\
-&nbsp;
-\
-&nbsp;
+<br/>
 
-### 💻 Languages and Tools:
-\
-<img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /><img  width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-\
-&nbsp;
-\
-&nbsp;
-### ✉ Connect With Me:
-\
-<a href="https://www.linkedin.com/in/hande-kurtuluş/"> <img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" /> </a> 
-<a href="mailto:handekyldz@gmail.com"><img  width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+
+### About
+
+I design products and currently explore how they are built.
+
+Focused on:
+- product thinking  
+- design systems  
+- turning ideas into real interfaces  
+
+Lately:
+- learning JavaScript  
+- building with React  
+- experimenting with new tools  
+
+
+<br/>
+
+
+### Now
+
+- designing and shipping digital products  
+- getting more comfortable with code  
+- trying things, breaking things, learning fast  
+
+
+<br/>
