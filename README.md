@@ -19,18 +19,7 @@ Focused on:
 
 Lately:
 - learning JavaScript  
-- building with React  
-- experimenting with new tools  
-
-
-<br/>
-
-
-### Now
-
-- designing and shipping digital products  
-- getting more comfortable with code  
-- trying things, breaking things, learning fast  
+- experimenting with AI tools such as claude, cursor, lovable
 
 
 <br/>
